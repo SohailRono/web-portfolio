@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sohail Rono Port-folio</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <section class="container">
+            <div class="half-width">
+                <h1>Welcome to <span class="purple-color">Sohail Rono</span> world</h1>
+                <h3>Web Developer</h3>
+                <p>I am a Full Stack .NET developer with expertise in ASP.NET, ASP.NET MVC, ASP.NET Core MVC, Web API and jQuery, React. I have great experience of working with these technologies and frameworks.</p>
+                <a target="_blank" class="primary-btn" href="https://www.facebook.com/sohail.rono">Hire Me</a>
+            </div>
+            <div class="half-width">
+                <img class="right-side-img" src="img/SohailRonop2.png" alt="">
+            </div>
+        </section>
+        <section class="container">
+            <div class="half-width">
+                <img class="side-img" src="img/SohailRonop1.png">
+            </div>
+            <div class="half-width">
+                <h2>Why Hire me?</h2>
+                <h4 style="color: goldenrod;">For your web projects</h4>
+                <p> Web developer and coding lover, having 5+ experience in development of web based applications using .NET framework in addition with React, Node, Javascript and jQuery. Love to do my work. Customers satisfaction is always my first priority.
+                </p>
+                <a class="primary-btn" href="cv.pdf">Download CV</a>
+            </div>
+        </section>
+       
+        <footer class="footer">
+            <p>© Sohail Rono 2020, a Programming Hero initiative.</p>
+        </footer>
+    </body>
+</html>
